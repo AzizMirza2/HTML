@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <h1>object with parameter</h1>
+    <p> this is a simple paragraph </p>
+    <strong>This is bold text</strong>
+<mark>person</mark>
+<a href="https://youtu.be/W0OvtDo9jSo"target="_BLANK">https://youtu.be/W0OvtDo9jSo </a>
+<br>
+<B>Elon Musk</B>
+<I>trump</I>
+<EM>bill gates</EM>
+<U>mark zukurberg</U>
+<S>not do this </S>
+<small>small text</small>
+H<sub>2</sub>O
+X<sup>5</sup>
+<pre>hi kia hal hen mera name aziz ha</pre>
+<KBd>CTRL+ALT+DEL</KBd>
+<samp>$ GIT status</samp>
+<VAR>X</VAR>
+<abbr title="WORLD TRADE ORGANIZATION">WTO</abbr>
+<CITE>kgf</CITE>
+<P><dfn>html</dfn>hypertext markup language</P>
+<q>This is a short quote</q>
+<blockquote" >work work and work</blockquote>
+<DL>
+    <DT>HTML</DT>
+    <DD>Hypertext Markup Language</DD>
+    <DT>CSS</DT>
+    <DD>Cascading Style Sheets</DD>
+    <DT>JS</DT>
+    <DD>JavaScript</DD>
+</DL>
+<table border="1">
+    <caption>Student Information</caption>
+    <tr>
+        <th>name</th>
+        <th>age</th>
+        <th>city</th>
+    </tr>
+    <tr>
+        <td>ali</td>
+        <td>20</td>
+        <td>lahore</td>
+    </tr>
+    <tr>
+        <td>ahmed</td>
+        <td>25</td>
+        <td>karachi</td>
+    </tr>
+    <tr>
+        <td>hassan</td>
+        <td>30</td>
+        <td>islamabad</td>
+    </tr>
+    <colgroup span="2" style="background-color:rgb(162, 0, 255)"></colgroup>
+<select>
+    <option value="option1"></option>
+    <option value="option2"></option>
+    <option value="option3"></option>
+<hr>cris gyell<hr>
+<DIV class="container">
+    <h3> bina wbr kay </h3>
+<wbr>supoercallingfragilistcarnima</wbr>
+<h3> wbr kay sath</h3>
+<P><wbr>supoercalling<wbr>fragilistcarnima</wbr></P>
+</DIV>\
+<BDo>ali is a boy</BDo>
+<nav>
+    <a href="dusra.page.html" target="_blank">Dusra Page</a>
+    
+    
+    <h2>Basic Image:</h2>
+    <img src="https://via.placeholder.com/300x200" alt="Sample Image">
+    
+    <!-- Image with width and height -->
+    <h2>Image with Size:</h2>
+    <img src="https://via.placeholder.com/400x250" 
+         alt="Sized Image" 
+         width="400" 
+         height="250">
+    
+    <!-- Image with CSS styling -->
+    <h2>Styled Image:</h2>
+    <img src="https://via.placeholder.com/350x200" 
+         alt="Styled Image" 
+         style="border: 3px solid blue; border-radius: 10px;">
+         <track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+        <VIDEO width="300" height="240" controls>auto play
+            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            <source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">
+            <param name="autoplay" value="true">
+            <param name="loop" value="true">
+    <object data="https://www.w3schools.com/html/mov_bbb.mp4" width="300" height="240">
+        <embed src="https://www.w3schools.com/html/mov_bbb.mp4" width="300" height="240">
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+    <ul>
+        <li>dhoodh </li>
+        <li>seb </li>
+        <li>ande</li>
+    </ul>
+</body>
+</html>
